@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> المخطط الخطي</string>
+    <string name="tv_address"> ´◡`مرحبا بك في تطبيقنا </string>
+    <string name="et_fname">الاسم الأول</string>
+    <string name="et_lname">الاسم الأخير</string>
+    <string name="et_phone">رقم الهاتف</string>
+    <string name="et_city">المدينة</string>
+    <string name="btn_add">إضافة</string>
+    <string name="btn_exit">خروج</string>
+    <string name="tv_add_corcte">مرحبا</string>
+
+</resources>

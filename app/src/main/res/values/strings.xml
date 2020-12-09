@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LinearLayoutApp</string>
+    <string name="tv_address">Welcome to Our App</string>
+    <string name="et_fname">first name</string>
+    <string name="et_lname">Last name</string>
+    <string name="et_phone">phone number</string>
+    <string name="et_city">city</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_exit">Exit</string>
+    <string name="tv_add_corcte">Hello</string>
+
+
+
+</resources>
